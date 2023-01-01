@@ -46,5 +46,6 @@ print("-"*20)
 print(f"WINNER:  {winner_name} ({winner_votes:,} votes)")
 
 # with open and write to file
-
-
+with open(path_to_analysis, 'w') as analysis_file:
+    analysis_file.write("-"*20)
+    analysis_file.write((f"WINNER:  {winner_name} ({winner_votes:,} votes)\n"))
