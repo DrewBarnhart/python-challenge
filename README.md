@@ -11,7 +11,7 @@ the Python script PyBank  analyzes the records to calculate each of the followin
 
 Additionally, 
 
-From a  given a set of poll data called election_data.csv, A Python script Pypoll analyzes the votes and calculates each of the following values :
+ In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process. From a  given a set of poll data called election_data.cs.A Python script Pypoll analyzes the votes and calculates each of the following values :
 
 - the total number of votes cast
 - A complete list of candidates who received votes
