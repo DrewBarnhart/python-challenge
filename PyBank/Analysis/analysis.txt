@@ -1,7 +1,0 @@
-Financial Analysis
---------------------
-Total Months: 86
-Total: $22,564,198
-Avg. Change: $-8,311.11
-Max P/L: Aug-16 ($1,862,002)
-Min P/L: Feb-14 ($-1,825,558)
