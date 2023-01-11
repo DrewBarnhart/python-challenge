@@ -9,7 +9,7 @@ the Python script "PyBank"  analyzes the records to calculate each of the follow
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
 
-Additionally, 
+The script also addresses the following:
 
  In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process. From a  given a set of poll data called election_data.cs.A Python script "Pypoll" analyzes the votes and calculates each of the following values :
 
